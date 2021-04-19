@@ -19,4 +19,12 @@ Segmented Image.
 
 ![output_1 3](https://user-images.githubusercontent.com/74135164/115286968-60e8de00-a158-11eb-99fe-b42a5795a3ed.jpg)
 
-4. 
+4. Then, we managed to identify each and every fruit while displaying their boundary boxes.
+
+![output_1 4-1](https://user-images.githubusercontent.com/74135164/115287430-eec4c900-a158-11eb-96a0-b9284ac8f798.jpg)
+Identified Fruits.
+
+5. Finally, our code identifies and prints segments of the image based on their RGB values. 
+
+![output_1 4-2](https://user-images.githubusercontent.com/74135164/115288893-aad2c380-a15a-11eb-99a2-615be1a8de9f.jpg)
+
